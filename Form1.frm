@@ -112,6 +112,10 @@ Private Sub Label1_Click()
 End
 End Sub
 
+Private Sub Label2_Click()
+MsgBox "Welcome!"
+End Sub
+
 Private Sub Label3_Click()
 End
 End Sub
